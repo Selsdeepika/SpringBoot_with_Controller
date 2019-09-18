@@ -185,4 +185,12 @@ public class AlienController {
 	}
 	
 	
+	  @RequestMapping("/addAlien")
+		public String add2Alien(Alien alien)
+
+		{
+			repo.save(alien);
+			return "home.jsp";
+
+		}
 }
