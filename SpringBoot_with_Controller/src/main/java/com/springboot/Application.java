@@ -19,6 +19,7 @@ public class Application {
        System.out.println("aski");
        System.out.println("spring boot");
        System.out.println("Learning merging");
+       System.out.println("merge");
    }
 
 }
