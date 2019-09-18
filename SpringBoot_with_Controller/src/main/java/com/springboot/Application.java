@@ -16,6 +16,7 @@ public class Application {
        String temp="mik";
        String new1="India"+temp;
        System.out.println(new1);
+       System.out.println("aski");
     }
 
 }
