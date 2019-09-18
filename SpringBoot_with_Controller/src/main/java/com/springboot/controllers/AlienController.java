@@ -36,10 +36,16 @@ public class AlienController {
 	public String home() {
 		return "home.jsp";
 	}
+	
 	@RequestMapping("/addAlien1")
 	public String home1() {
 		return "home.jsp";
 	}
+	@RequestMapping("/addAlien2")
+	public String home2() {
+		return "home.jsp";
+	}
+
 
 	@RequestMapping("/addAlien")
 	public String addAlien(Alien alien)
