@@ -13,6 +13,9 @@ public class Application {
         System.out.println("sels");
        System.out.println("deepika");
        System.out.println("aSHOK");
+       String temp="mik";
+       String new1="India"+temp;
+       System.out.println(new1);
     }
 
 }
