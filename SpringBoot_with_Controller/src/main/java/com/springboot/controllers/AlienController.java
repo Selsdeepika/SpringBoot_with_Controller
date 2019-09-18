@@ -26,12 +26,18 @@ import io.swagger.models.Response;
 
 @Controller
 public class AlienController {
+			
+	//sample alien Controller
 
 	@Autowired
 	Alienrepo repo;
 
 	@RequestMapping("/")
 	public String home() {
+		return "home.jsp";
+	}
+	@RequestMapping("/addAlien1")
+	public String home1() {
 		return "home.jsp";
 	}
 
