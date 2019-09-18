@@ -16,7 +16,7 @@ public class Alien
 	private String aname;
 	public String tech;
 	
-	
+
 	public Alien()
 	{
 		

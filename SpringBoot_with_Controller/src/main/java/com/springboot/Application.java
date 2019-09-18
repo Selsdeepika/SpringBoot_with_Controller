@@ -20,6 +20,7 @@ public class Application {
        System.out.println("spring boot");
        System.out.println("Learning merging");
        System.out.println("merge");
+       System.out.println("Fetched");
    }
 
 }
