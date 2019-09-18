@@ -21,6 +21,7 @@ public class Application {
        System.out.println("Learning merging");
        System.out.println("merge");
        System.out.println("Fetched");
+       System.out.println("Merged Finally");
    }
 
 }
