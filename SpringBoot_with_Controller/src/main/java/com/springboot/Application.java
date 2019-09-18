@@ -22,6 +22,9 @@ public class Application {
        System.out.println("merge");
        System.out.println("Fetched");
        System.out.println("Merged Finally");
+           System.out.println("Tested Finally");
+           System.out.println("local to server");
+        
    }
 
 }
