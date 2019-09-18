@@ -12,6 +12,7 @@ public class Application {
         SpringApplication.run(Application.class, args);
         System.out.println("sels");
        System.out.println("deepika");
+       System.out.println("aSHOK");
     }
 
 }
