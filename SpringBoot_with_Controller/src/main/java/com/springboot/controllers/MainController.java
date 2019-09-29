@@ -16,7 +16,7 @@ public class MainController {
    @RequestMapping("/")
     @ResponseBody
     public String index() {
-        return "JPA + Hibernate + MySQL + Swagger with Spring Boot App started!";
+        return "JPA + Hibernate + MySQL + helo selva deepika d!";
     }
 
 }
